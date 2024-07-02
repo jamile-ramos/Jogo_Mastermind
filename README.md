@@ -1,2 +1,2 @@
 # Jogo_Mastermind
- Jogo Mastermind feito em C
+ Jogo Mastermind feito para aprendizagem da linguagem C e lógica de programação.
